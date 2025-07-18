@@ -6,12 +6,6 @@ This project serves as a frontend demonstration website for a Grand Theft Auto-t
 
 ---
 
-## 🔗 Live Demo
-
-🌐 **[View Live Website](https://youtu.be/TqGdKssP_gI)**
-
----
-
 ## 🛠️ Technologies Used
 
 | Technology       | Purpose                                                         |
@@ -119,13 +113,5 @@ Contributions are welcome! Feel free to fork the repository, raise issues, or su
 ## 📜 License
 
 This project is open-source and free to use for educational and personal purposes.
-
----
-
-## 👤 Author
-
-**Urvil Darji**
-📧 [urvil004@gmail.com](mailto:urvil004@gmail.com)
-🔗 [GitHub](https://github.com/urvil004)
 
 ---
